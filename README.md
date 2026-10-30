@@ -36,7 +36,7 @@
     </td>
   </tr>
   <tr>
-    <td width="96" align="center"><img src="assets/sign-ruby-dark.svg" width="72" alt="рубин"></td>
+    <td width="96" align="center"><img src="assets/sign-sapphire-dark.svg" width="72" alt="сапфир"></td>
     <td>
       <b>Avgust Herald</b> — скоро. Публикация работ по расписанию прямо с Mac.<br>
       <sub>Coming soon. Scheduled publishing straight from your Mac.</sub>

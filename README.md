@@ -33,8 +33,9 @@
   <tr>
     <td width="96" align="center"><img src="assets/sign-sapphire-dark.svg" width="72" alt="сапфир"></td>
     <td>
-      <b>Avgust Herald</b> — скоро. Публикация работ по расписанию прямо с Mac.<br>
-      <sub>Coming soon. Scheduled publishing straight from your Mac.</sub>
+      <b><a href="https://github.com/aaavgust/AvgustHerald">Avgust Herald</a></b> — публикует Reels и фото в Instagram из папки на Mac по расписанию, подписи пишет ИИ.<br>
+      <sub>Posts Reels and photos to Instagram from a folder on your Mac on schedule, with AI-written captions.</sub><br>
+      <a href="https://github.com/aaavgust/AvgustHerald/releases/latest">Скачать · Download</a>
     </td>
   </tr>
 </table>
